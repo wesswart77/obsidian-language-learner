@@ -1,9 +1,9 @@
 {
   "id": "language-learner",
   "name": "Language Learner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.4.0",
-  "description": "Learn languages in Obsidian: vocabulary lists, grammar rules, example sentences, and progress tracking by level.",
+  "description": "Learn languages with vocabulary lists, grammar rules, vocabulary quiz, and progress tracking by CEFR level.",
   "author": "wesswart77",
   "authorUrl": "https://github.com/wesswart77",
   "fundingUrl": "https://www.buymeacoffee.com/wesswart77",
